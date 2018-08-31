@@ -1,0 +1,1 @@
+Simple project to show best practices and search gifs at the same time!

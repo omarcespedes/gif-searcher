@@ -1,0 +1,17 @@
+
+.gif-card {
+  display: inline-block;
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+.gif-img{
+  width: 250px;
+  height: 250px;
+}
+
+input {
+  width: 400px;
+  padding: 15px;
+  font-size: 16px;
+}

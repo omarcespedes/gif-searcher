@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "javascript.format.enable": false,
+    // Disable default VSCode formatting for JavaScript
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    // Enable ESLint (with Prettier plugin) to format code on save
+    "eslint.autoFixOnSave": true
+}
